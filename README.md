@@ -1,1 +1,1 @@
-# Jerney-secure-delivery-platform
+# Secure Travel Journal Platform
